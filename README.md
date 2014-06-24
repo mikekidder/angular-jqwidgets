@@ -1,0 +1,1 @@
+Custom directives for JQWidgets, built the angular way.
